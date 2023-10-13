@@ -30,7 +30,7 @@
 
   
 > <p>Проект 2:Когортный анализ онлайн-кинотеатра с помощью SQL</p>
-href=https://github.com/ValnerMichail/ValnerMichail/blob/main/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%E2%84%962%20SQL.docx >Ссылка на проект</a>
+href=https://github.com/ValnerMichail/ValnerMichail/blob/main/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%E2%84%962%20SQL.docx>Ссылка на проект</a>
 <p>Что нужно было сделать:<p> 
 Cмоделировать изменение балансов студентов. Проверить, всё ли в порядке с данными, составить список гипотез.
   
