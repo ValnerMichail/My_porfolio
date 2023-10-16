@@ -1,3 +1,7 @@
+<div align="center">
+  <img width="100%" src="https://github.com/ValnerMichail/ValnerMichail/blob/main/assets/102457891.png" alt="cover" />
+</div>
+
 <h3 align="center">👋 Привет! Меня зовут Михаил</h3>
 <p align="center">
   
